@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lidia</h1>
-<h3 align="center">curiouser & curioiser...</h3>
+<h3 align="center">curiouser & curiouser...</h3>
 
 <p align="left"> <a href="https://twitter.com/queenamidala" target="blank"><img src="https://img.shields.io/twitter/follow/queenamidala?logo=twitter&style=for-the-badge" alt="queenamidala" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, react, vue, gsap, ruby, python,**
+- 🌱 I’m currently learning **javascript, react, python...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
