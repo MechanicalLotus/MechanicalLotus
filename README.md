@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/queenamidala" target="blank"><img src="https://img.shields.io/twitter/follow/queenamidala?logo=twitter&style=for-the-badge" alt="queenamidala" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, react, python...**
-
+- 🌱 I’m currently learning **javascript, react, python...**<br>
+<a href="https://fae.works">my website</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/faeworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="faeworks" height="30" width="40" /></a>
