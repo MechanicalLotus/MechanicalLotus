@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://twitter.com/queenamidala" target="blank"><img src="https://img.shields.io/twitter/follow/queenamidala?logo=twitter&style=for-the-badge" alt="queenamidala" /></a> </p><br>
 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>
 ❤️‍🔥 my expertise: CSS<br>
-⚙️ currently learning:*******<br></p><br><br><br>
+⚙️ currently learning: javascript. 11ty. sass.*******<br></p><br><br><br>
 
 
 
