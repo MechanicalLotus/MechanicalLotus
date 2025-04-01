@@ -10,8 +10,9 @@
 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>
 ❤️‍🔥 my expertise: CSS<br>
 ⚙️ currently learning: javascript. 11ty. sass.*******<br></p><br><br><br>
-
-
+<br>
+<p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
