@@ -8,12 +8,10 @@
 
 <p align="center"> <a href="https://twitter.com/queenamidala" target="blank"><img src="https://img.shields.io/twitter/follow/queenamidala?logo=twitter&style=for-the-badge" alt="queenamidala" /></a> </p><br>
 <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>
-❤️‍🔥 my expertise: CSS<br>
-⚙️ currently learning: javascript. 11ty. sass.*******<br></p><br><br><br>
+❤️‍🔥 my favorite: CSS<br>
+⚙️ currently learning: javascript. 11ty. sass.<br></p><br><br><br>
 <br>
-<p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>
-<br><br>
-
+<p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fae.works">「 ✦m y   w e b s i t e ✦ 」</a><br><br>
